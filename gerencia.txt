@@ -1,0 +1,20 @@
+Auditoria de Configuração
+A auditoria de configuração é o processo de verificar se as alterações no software estão corretamente registradas e se o sistema está funcionando conforme o planejado. Essa prática garante que a versão final seja completamente rastreável, confirmando que todas as mudanças e requisitos foram cumpridos de maneira precisa e controlada.
+
+Controle de Versão
+O controle de versão é uma ferramenta essencial para acompanhar e gerenciar todas as mudanças feitas no código ao longo do tempo. Ele permite que várias versões do software coexistam e mantém um histórico detalhado de todas as modificações, possibilitando a reversão para versões anteriores quando necessário. O Git é o sistema de controle de versão mais usado hoje, facilitando o desenvolvimento colaborativo e distribuído entre equipes.
+
+Baseline
+Uma baseline é uma versão aprovada e estável de um item de configuração, como o código de um software ou um artefato importante. Ela serve como um ponto de referência no desenvolvimento, onde todas as mudanças foram revisadas e validadas, sendo utilizada como base para futuras modificações ou melhorias.
+
+Rastreamento de Issues
+O sistema de rastreamento de issues é utilizado para gerenciar tarefas, problemas ou modificações dentro de um projeto de software. Cada issue corresponde a uma unidade de trabalho, podendo representar uma nova funcionalidade, correção de um erro ou uma melhoria. As issues são geralmente organizadas com atributos como prioridade, descrição e status, facilitando o acompanhamento e a colaboração entre membros da equipe.
+
+Gestão de Mudanças
+A gestão de mudanças é o processo de controlar e aprovar as alterações no software de maneira estruturada. Envolve a análise, aprovação e implementação de mudanças, garantindo que elas não comprometam a estabilidade do sistema. Esse processo evita a introdução de falhas inesperadas e assegura que as alterações sejam bem planejadas e coordenadas.
+
+Marcos do Projeto (Milestones)
+Os marcos do projeto, ou milestones, são pontos de verificação que reúnem um conjunto de issues com um objetivo específico. Eles ajudam a organizar o desenvolvimento em fases e permitem à equipe ter metas claras, como a conclusão de um conjunto de funcionalidades. Cada milestone representa um ponto importante no progresso do projeto.
+
+Fluxo de Trabalho (Workflow)
+O fluxo de trabalho em desenvolvimento de software é uma sequência estruturada de atividades que organiza como as tarefas são executadas, desde a codificação até a entrega final. Ele define etapas que permitem aos desenvolvedores trabalharem de forma integrada e eficiente, garantindo que as funcionalidades sejam criadas, testadas e revisadas corretamente. Exemplos incluem o fluxo centralizado, onde todos trabalham em uma única branch, e o fluxo de feature branches, onde cada tarefa tem sua própria branch, evitando conflitos de código.

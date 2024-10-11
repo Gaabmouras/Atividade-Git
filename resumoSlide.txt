@@ -1,0 +1,58 @@
+Curso Aula 1
+
+Introdução ao SCM: Discute a relevância da Gerência de Configuração de Software (SCM) e seus conceitos fundamentais, tais como o gerenciamento de alterações e o gerenciamento de versões.
+
+O que é Software?: Descreve o software como um agrupamento de instruções e artefatos, separando artefatos destinados aos usuários dos destinados aos programadores.
+
+Por que o SCM é importante?: Destaca os obstáculos de administrar alterações e artefatos no desenvolvimento de software, assegurando a estabilidade das versões e a utilização adequada das ferramentas.
+
+História do SCM: Analisa as raízes do SCM na década de 50, inicialmente voltado para usos militares, e sua transformação em normas internacionais na década de 1980.
+
+Conceitos Básicos: Discute termos como item de configuração, baseline e auditoria de configuração, essenciais para uma gestão eficaz do software.
+
+Efeito do SCM: Aborda os grupos impactados pela administração da configuração de software, tais como programadores, administradores e designers.
+
+Gestão de Mudanças: Apresenta o conceito de gestão de mudanças, encarregado de supervisionar e autorizar modificações no software para garantir sua estabilidade.
+
+Monitoramento de Questões: Descreve o funcionamento dos sistemas de monitoramento de tarefas, incluindo atributos como título, descrição e estado.
+
+Milestones e Comitês de Alterações: Demonstra como os marcos organizam questões e como os comitês de gestão de mudanças aprovam ou reprovam modificações no software.
+
+Controle de Versão: Destaca a relevância de administrar as versões de um programa, fazendo referência a ferramentas como o Git.
+
+Diretório de Trabalho e Repositório: Descreve os princípios de diretório de trabalho (arquivos em uso) e repositório (registro de versões e alterações).
+
+
+A Aula 2
+
+Introdução ao Git: Descreve o Git como o sistema de gerenciamento de versões mais popular, estabelecido em 2005 e de acesso livre.
+
+Instalando o Git: Oferece os passos para fazer o download e a instalação do Git, bem como o comando para conferir a versão instalada.
+
+O que é GitHub?: Apresenta o GitHub como um sistema de armazenamento de código que emprega Git para gerenciamento de versões, possibilitando a elaboração de projetos tanto públicos quanto privados.
+
+Conexão GitHub e VSCode: Descreve o procedimento de conexão entre o GitHub e o editor VSCode, visando simplificar a administração de código.
+
+Princípios Fundamentais do Git: Apresenta conceitos cruciais, tais como repositório local, diretório de trabalho, área de estágio e repositório à distância.
+
+Configuração do Git: Mostra como configurar nome e e-mail do usuário para commits usando os comandos git config --global.
+
+Criando Repositórios Locais e Remotos: Explica como criar repositórios locais no computador com git init e como clonar repositórios remotos com git clone.
+
+Adicionando e Removendo Arquivos: Demonstra como adicionar arquivos à área de staging usando git add e como removê-los com git rm --cached.
+
+Criando Commits: Ensina como criar commits utilizando git commit -m, ressaltando a importância de uma mensagem clara e descritiva.
+
+Sincronizando Repositórios: Aborda os comandos git pull e git push para sincronizar repositórios locais e remotos.
+
+Desfazendo Alterações: Apresenta comandos como git reset e git revert para desfazer alterações ou reverter commits.
+
+Trabalhando com Branches: Ensina a criar e alternar entre branches com git branch e git checkout, além de fazer merges com git merge.
+
+Merge vs Rebase: Discute as diferenças entre merge e rebase, duas maneiras de integrar mudanças entre branches.
+
+Resolvendo Conflitos: Mostra como lidar com conflitos de merge e como usar git merge --abort para cancelar a operação se necessário.
+
+Boas Práticas de Commit: Sugere boas práticas, como usar títulos curtos, descrições detalhadas e commits organizados.
+
+Workflows de Desenvolvimento: Apresenta diferentes fluxos de trabalho, como o centralizado, o baseado em feature branches, e o fluxo com bifurcação (fork).
